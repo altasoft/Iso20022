@@ -129,3 +129,11 @@ footer {
     margin: auto;
     font-size: 0.8em;
 }
+
+.sr-text {
+    background-color: green; /* Sets background color */
+    color: white; /* Makes text readable on green */
+    padding: 2px; /* Adds spacing inside items */
+    border-radius: 4px; /* Rounds the corners */
+    margin-right: 4px; /* Adds space between items */
+}
